@@ -1,0 +1,80 @@
+# Translation of Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) in English (Australia)
+# This file is distributed under the same license as the Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-17 04:03:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - Coming Soon Page, Maintenance Mode &amp; Landing Pages by SeedProd - Stable (latest release)\n"
+
+#: app/includes/skin53.php:88 app/includes/skin.php:88
+msgid "There was an error installing the addon. Please try again."
+msgstr "There was an error installing the addon. Please try again."
+
+#: app/functions-addons.php:186 app/functions-addons.php:228
+msgid "Active"
+msgstr "Active"
+
+#: app/functions-addons.php:191 app/functions-addons.php:233
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: app/routes.php:50 app/routes.php:51
+msgid "Subscribers"
+msgstr "Subscribers"
+
+#: app/routes.php:59 app/routes.php:60
+msgid "Settings"
+msgstr "Settings"
+
+#: app/review.php:116
+msgid "I already did"
+msgstr "I already did"
+
+#: app/review.php:114
+msgid "Ok, you deserve it"
+msgstr "Ok, you deserve it"
+
+#: app/bootstrap.php:309
+msgid "Please rate <strong>SeedProd</strong> <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+msgstr "Please rate <strong>SeedProd</strong> <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the SeedProd team!"
+
+#: app/functions-utils.php:166
+msgid "Custom HTML"
+msgstr "Custom HTML"
+
+#. Author of the plugin
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#. Description of the plugin
+msgid "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+msgstr "The #1 Coming Soon Page, Under Construction & Maintenance Mode plugin for WordPress."
+
+#: app/functions-utils.php:121
+msgid "Text"
+msgstr "Text"
+
+#: app/functions-utils.php:116
+msgid "Headline"
+msgstr "Headline"
+
+#: app/review.php:99
+msgid "Yes"
+msgstr "Yes"
+
+#: app/backwards/csp4-functions.php:11
+msgid "Please enter your settings."
+msgstr "Please enter your settings."
+
+#: app/admin-bar-menu.php:44
+msgid "Maintenance Mode Active"
+msgstr "Maintenance Mode Active"
+
+#: app/admin-bar-menu.php:42
+msgid "Coming Soon Mode Active"
+msgstr "Coming Soon Mode Active"
